@@ -7,7 +7,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-
 public class ShowAllName {
 	
 	//to get all the porducts
@@ -76,6 +75,7 @@ public class ShowAllName {
 		}
 	}
 	
+	//to insert new product
 	public void addNewProduct(String name, int price)
 	{
 		try {
@@ -147,6 +147,7 @@ public class ShowAllName {
 		}
 	}
 	
+	//to deleted product based on product id
 	public void deleteProduct(int id)
 	{
 		try {
