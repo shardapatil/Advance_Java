@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 public class ShowAllName {
 	
+	//to get all the porducts
 	public void getAllProducts()
 	{
 		try {
