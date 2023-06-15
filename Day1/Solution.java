@@ -147,7 +147,7 @@ public class ShowAllName {
 		}
 	}
 	
-	//to deleted product based on product id
+	//to delete product based on product id
 	public void deleteProduct(int id)
 	{
 		try {
